@@ -340,6 +340,9 @@ var (
 
 		// Maria Mayer - American theoretical physicist and Nobel laureate in Physics for proposing the nuclear shell model of the atomic nucleus - https://en.wikipedia.org/wiki/Maria_Mayer
 		"mayer",
+		
+		// Marissa Mayer - First female engineer hired at Google; CEO of Yahoo
+		"marissamayer",
 
 		// John McCarthy invented LISP: https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)
 		"mccarthy",
@@ -448,6 +451,9 @@ var (
 
 		// Dame Stephanie "Steve" Shirley - Founded a software company in 1962 employing women working from home. https://en.wikipedia.org/wiki/Steve_Shirley
 		"shirley",
+		
+		// Erwin Schrödinger - Creator of the Schrödinger equation; a partial differential equation that describes how the quantum state of a quantum system changes with time; also serves as a great nerd joke. https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation
+		"schrodinger",
 
 		// William Shockley co-invented the transistor - https://en.wikipedia.org/wiki/William_Shockley
 		"shockley",
